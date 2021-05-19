@@ -9,6 +9,6 @@ Flashing taillights stand out more than steady state lights.
 
 
        AtTiny85   ledPin
- Vcc      8
- Gnd      4
-          6          +      // 330 ohm resistance to drive 2N2222 base
+Vcc      8
+Gnd      4
+         6          +      // 330 ohm resistance to drive 2N2222 base
