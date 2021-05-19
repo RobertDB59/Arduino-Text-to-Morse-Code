@@ -1,2 +1,14 @@
 # Arduino-Text-to-Morse-Code
-This repository enables you to put any text into morse code. I needed this to create a flashing taillight on my bicycle. Pulsing taillights are better noticed than steady ones.
+
+        Morse Code Taillight Project version 2
+ 
+ This code will loop through a string of characters and convert these
+ to morse code. It will make a led taillight blink.
+ 
+ Flashing taillights stand out more than steady state lights.
+ 
+ 
+        AtTiny85   ledPin
+  Vcc      8
+  Gnd      4
+           6          +      // 330 ohm resistance to drive 2N2222 base
